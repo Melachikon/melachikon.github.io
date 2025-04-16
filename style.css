@@ -4,9 +4,9 @@ body {
     background: linear-gradient(
       0deg,
       #ff0059 0%,
-      #000000 30%,
+      #000000 10%,
       #000000 50%,
-      #000000 70%,
+      #000000 90%,
       #73005c 100%
     );
     background-repeat: no-repeat;
