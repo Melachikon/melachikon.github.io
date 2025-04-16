@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
-    background: linear-gradient(#ff0059, #73005c);
+    background: linear-gradient(#ff0059, #000000, #73005c);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
